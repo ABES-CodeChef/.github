@@ -29,7 +29,16 @@
 
 5. **GitHub: The Chef's Table of Coding** 💻
    - Satisfy your tech cravings with access to industry leaders. 🤓💬
+
 --- 
+<h3 align="center">Our Tech Menu</h3>
+<p align="center">
+<a href="https://skillicons.dev" target="_blank" align="center">
+            <img src="https://skillicons.dev/icons?i=cpp,c,python,java,rust,html,css,javascript,react,nodejs,dart,kotlin,flutter,firebase,figma,linux,bash,git,golang,kubernetes,docker" alt="My Skills">
+        </a>
+</p>
+
+---
 <h3 align="center">Join Our Code Kitchen!</h3> 
 
 <p align="center">
