@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height="200px" width="400px" src="assets\cclogo.png" alt="CodeChef logo"></a>
+ <img height="200px" width="400px" src="https://github.com/ABES-CodeChef/.github/blob/main/profile/assets/cclogo.png" alt="CodeChef logo"></a>
 </p>
 <div id="user-content-toc">
   <ul align="center">
