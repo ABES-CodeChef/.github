@@ -30,25 +30,28 @@
 5. **GitHub: The Chef's Table of Coding** 💻
    - Satisfy your tech cravings with access to industry leaders. 🤓💬
 --- 
-<h3 align="center">Join Our Code Kitchen!</h3>
+<h3 align="center">Join Our Code Kitchen!</h3> 
 
 <p align="center">
   <a href="https://www.instagram.com/abesec.codechef/">
     <img src="https://img.shields.io/badge/Instagram-%40abesec.codechef-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
-  </a>
+  </a><br />
 
   <a href="https://twitter.com/abesec_codechef">
     <img src="https://img.shields.io/badge/Twitter-%40abesec_codechef-%231DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
+  </a><br />
 
   <a href="https://www.linkedin.com/company/abesec-codechef/">
     <img src="https://img.shields.io/badge/LinkedIn-CodeChef_ABESEC_Chapter-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  
+  </a><br />
+
   <a href="https://discord.gg/5kSp9Zmcp6">
     <img src="https://img.shields.io/badge/Discord-ELIXIR_COMMUNITY-%237289DA?style=for-the-badge&logo=discord" alt="Discord">
-  </a>
-</p>
+  </a><br />
+  <a href="https://hashnode.com/@CodeChefABESEC">
+    <img src="https://img.shields.io/badge/Hashnode-CodeChef_ABESEC_Chapter-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
+  </a><br />
+
 
 
 
