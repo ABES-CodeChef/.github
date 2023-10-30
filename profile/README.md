@@ -30,12 +30,26 @@
 5. **GitHub: The Chef's Table of Coding** 💻
    - Satisfy your tech cravings with access to industry leaders. 🤓💬
 --- 
-<h4 align="center">Join Our Code Kitchen!</h4>
+<h3 align="center">Join Our Code Kitchen!</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40abesec.codechef-%23E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/abesec.codechef/)
-[![Twitter](https://img.shields.io/badge/Twitter-%40abesec_codechef-%231DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/abesec_codechef)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CodeChef_ABESEC_Chapter-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/abesec-codechef/)
-[![Discord](https://img.shields.io/badge/Discord-ELIXIR_COMMUNITY-%237289DA?style=for-the-badge&logo=discord)](https://discord.gg/5kSp9Zmcp6)
+<p align="center">
+  <a href="https://www.instagram.com/abesec.codechef/">
+    <img src="https://img.shields.io/badge/Instagram-%40abesec.codechef-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
+
+  <a href="https://twitter.com/abesec_codechef">
+    <img src="https://img.shields.io/badge/Twitter-%40abesec_codechef-%231DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
+
+  <a href="https://www.linkedin.com/company/abesec-codechef/">
+    <img src="https://img.shields.io/badge/LinkedIn-CodeChef_ABESEC_Chapter-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  
+  <a href="https://discord.gg/5kSp9Zmcp6">
+    <img src="https://img.shields.io/badge/Discord-ELIXIR_COMMUNITY-%237289DA?style=for-the-badge&logo=discord" alt="Discord">
+  </a>
+</p>
+
 
 
 
