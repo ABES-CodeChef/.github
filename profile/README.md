@@ -7,10 +7,11 @@
     <summary><h1 style="display: inline-block">Welcome to CodeChef ABESEC Chapter</h1></summary>
   </ul>
 </div>
----
+<hr>
 <p align="center">The ABES Engineering College (ABESEC) CodeChef Chapter is a distinguished community on GitHub dedicated to technology and coding. We are more than just a chapter; we constitute a collective of committed problem solvers who cultivate a culture of innovation and camaraderie.
 </p>
-## ABESEC CodeChef Chapter
+<br>
+ <h3>ABESEC CodeChef Chapter</h3>
 
 - **Coding Endeavors and Hackathons:** We host a variety of coding events, hackathons, and coding challenges that offer both challenging platforms and enjoyable learning opportunities.
 
