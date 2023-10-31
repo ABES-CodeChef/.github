@@ -61,6 +61,8 @@
     <img src="https://img.shields.io/badge/Hashnode-CodeChef_ABESEC_Chapter-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
   </a><br />
 
+  ---
+       Disclaimer: The CodeChef ABESEC chapter is a college club and is not affiliated with the official CodeChef organization. 
 
 
 
