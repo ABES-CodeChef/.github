@@ -21,7 +21,7 @@
 2. **A Culinary Celebration of Code** 🎉
    - Delight in the fusion of creativity, intellect, and the art of coding.
 
-3. **Secret Ingredient: Elixir Community Membership** 🔗
+3. **Secret Ingredient: [Elixir Community Membership](https://www.elixircommunity.live/)** 🔗
    - Satisfy your tech cravings with access to industry leaders.
 
 4. **A Recipe for Collaboration** 💡
